@@ -1,0 +1,12 @@
+{
+    "Trip Name": "St George",
+    "Contact": {
+        "Email": "email@gmail.com",
+        "Phone": "801-321-1234"
+    },
+    "Destinations": [
+        {"Location": "Hana Hou", "Arrival time": 12, "Departure time": 1, "Activity": "great food"},
+        {"Location": "Kayenta", "Arrival time": 130, "Departure time": 230, "Activity": "viewing art"},
+        {"Location": "Xetava", "Arrival time": 3, "Departure time": 4, "Activity": "eat more good food"}
+    ]
+}
