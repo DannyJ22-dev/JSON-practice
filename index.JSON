@@ -5,8 +5,45 @@
         "Phone": "801-321-1234"
     },
     "Destinations": [
-        {"Location": "Hana Hou", "Arrival time": 12, "Departure time": 1, "Activity": "great food"},
-        {"Location": "Kayenta", "Arrival time": 130, "Departure time": 230, "Activity": "viewing art"},
-        {"Location": "Xetava", "Arrival time": 3, "Departure time": 4, "Activity": "eat more good food"}
+        {
+            "Location": "Hana Hou", 
+            "Arrival time": 12, 
+            "Departure time": 1, 
+            "Activity": "great food",
+            "Transportation": {
+                "Mode": "Taxi",
+                "Cost": "$43.50"
+            }
+        },
+        {
+            "Location": "Kayenta", 
+            "Arrival time": 130, 
+            "Departure time": 230, 
+            "Activity": "viewing art",
+            "Transportation": {
+                "Mode": "Jalopy",
+                "Cost": "$9,542"
+            }
+        },
+        {
+            "Location": "Xetava", 
+            "Arrival time": 3, 
+            "Departure time": 4, 
+            "Activity": "eat more good food",
+            "Transportation": {
+                "Mode": "Skateboard",
+                "Cost": "Free (Steal it from a kid)"
+            }
+        },
+        {
+            "Location": "Graveyard", 
+            "Arrival time": 1130, 
+            "Departure time": 330, 
+            "Activity": "Grave Robbing",
+            "Transportation": {
+                "Mode": "Horse",
+                "Cost": "Our dignity"
+            }
+        }
     ]
 }
